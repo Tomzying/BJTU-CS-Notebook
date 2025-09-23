@@ -7,7 +7,6 @@
 <p align='center'>
 <img src="https://img.shields.io/github/stars/Allenpandas/BJTU-SCIT-Notebook.svg" />
 <img src="https://img.shields.io/github/forks/Allenpandas/BJTU-SCIT-Notebook.svg" />
-<img src="https://badges.toozhao.com/badges/01J84EAY89PG2G3KBQSSMCQ1HF/green.svg" />
 <img src="https://img.shields.io/github/repo-size/Allenpandas/BJTU-SCIT-Notebook.svg" />
 <img src="https://img.shields.io/github/issues/Allenpandas/BJTU-SCIT-Notebook.svg" />
 <img src="https://img.shields.io/github/issues-pr/Allenpandas/BJTU-SCIT-Notebook.svg" />
